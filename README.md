@@ -28,6 +28,6 @@ A Pokedex é uma aplicação web que permite aos usuários visualizar informaç�
 
  **Acesse o endereço abaixo**:
    
- https://github.com/mouraoinfo/pokedex.git
+ https://github.com/mouraoinfo/js-developer-pokedex.git
    
 
